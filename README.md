@@ -10,5 +10,3 @@ On the app Polls, you vote "thumbs up" or "thumbs down" on random poll topics: d
 Instead of swiping on pictures of people, you are swiping on decisions you have to make for yourself, and the app will pair you with some potential matches, who you can then choose to start a conversation with. 
 
 I think this is a good app idea within the scope of this class because it is easily scalable. If I don't have enough time to implement the dating portion of this app i can just do the polls part which would still be fun and engaging. After playing around on Xcode, I do think I could code implement the polls interface. 
-
-
