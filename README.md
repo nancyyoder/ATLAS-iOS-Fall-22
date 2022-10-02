@@ -1,4 +1,10 @@
 # ATLAS-iOS-Fall-22
+# Assignment UI/UX Criticism
+
+UI/UX Criticism Video Link: https://vimeo.com/756205297
+UI/UX Praise Video Link: https://vimeo.com/756205342
+
+
 # App Idea
 
 My app idea is a dating app called "Polls".
