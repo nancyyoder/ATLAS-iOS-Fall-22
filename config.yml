@@ -1,2 +1,11 @@
-personal_project:polls-repo-2
 name: Nancy Yoder
+
+repo_names:
+  - polls-repo-2
+  - API
+
+10-ux-ui-criticism:
+  - https://vimeo.com/756205297
+  - https://vimeo.com/manage/videos/756205342
+
+11-models-from-data:
