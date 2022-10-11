@@ -10,3 +10,6 @@ repo_names:
 
 11-models-from-data:
 - https://github.com/nancyyoder/Test_StarWars
+
+project-check-in-1:
+- https://github.com/nancyyoder/ATLAS-iOS-Fall-22/issues/2
